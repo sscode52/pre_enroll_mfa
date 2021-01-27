@@ -13,6 +13,7 @@ Before you get started you will need:
 
 
 *   Access to an Okta tenant with Okta Workflows enabled for your org
+*   Access to Gmail
 *   Access to a phone with sms capability 
 
 ## Workflow Setup Steps
